@@ -53,7 +53,7 @@ export default function LoginPage({ onSwitchToRegister }) {
   return (
     <div className="auth-card">
       <div className="auth-header">
-        <h2>Welcome Back</h2>
+        <h2>Welcome Back USER @ V.0</h2>
         <p>Sign in to your MoneyTrack account</p>
       </div>
 
