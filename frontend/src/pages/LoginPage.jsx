@@ -55,6 +55,7 @@ export default function LoginPage({ onSwitchToRegister }) {
       <div className="auth-header">
         <h2>Welcome Back USER @ V.0</h2>
         <p>Sign in to your MoneyTrack account</p>
+        
       </div>
 
       {errorMessage && (
